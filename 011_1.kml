@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="56071_PL_Main_Pipeline">
+  <name>56071_PL_Main_Pipeline</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>56071_PL_Main_Pipeline</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>RC4310</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>RC4310</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ROUTE_CODE</td>
+<td>RC4310</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>RC4310</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>TRANS MAIN</td>
+</tr>
+<tr>
+<td>DESCRIPTIO</td>
+<td>ZAWTIKA GAS PIPELINE ( ZAWTIKA MR - BVW1 )
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Design_Pre</td>
+<td>1250</td>
+</tr>
+<tr>
+<td>OUTSIDE_DI</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>MAOP</td>
+<td>1250</td>
+</tr>
+<tr>
+<td>ID</td>
+<td>011</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pro_Code</td>
+<td>56071_PL</td>
+</tr>
+<tr>
+<td>Name_Pro</td>
+<td>โครงการวางท่อส่งก๊าซธรรมชาติบนบกจากชายแดนไทย-สหภาพพม่า มายังสถานีควบคุมความดันก๊าซที่ BVW01</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 98.36589900960848,14.6814311683304,0 98.36569123603329,14.68139037752481,0 98.36569069145357,14.68138920251649,0 98.36565291333737,14.68138146872695,0 98.36506082994957,14.6813199612979,0 98.36481631547224,14.68129189842784,0 98.36378849277593,14.68115619135227,0 98.36368201132923,14.6812363535705,0 98.36368115509353,14.68123632681367,0 98.36294408946091,14.68113727543083,0 98.36289242031286,14.68117534451848,0 98.36288820811311,14.68121490356059,0 98.36290288736701,14.68124528719774,0 98.36299017451653,14.68143558992307,0 98.36303792564475,14.68154082420207,0 98.36306288080473,14.68160390472285,0 98.3630830947197,14.68166857249224,0 98.36311108230794,14.68177625509619,0 98.36310837933942,14.68177635255843,0 98.36308156245532,14.68182445662636,0 98.36300234313283,14.68196111446854,0 98.36292809799257,14.68210039153765,0 98.36287379078527,14.68221228750176,0 98.36282308436952,14.68232577188687,0 98.36277523620031,14.68242721608173,0 98.3627234739329,14.68252682324291,0 98.36266962873714,14.68262663623214,0 98.36261241356601,14.68272465526506,0 98.36253729267135,14.6828441734134,0 98.36245808687797,14.68296116692336,0 98.36241705113928,14.68301924927147,0 98.36237714034232,14.68312885204776,0 98.36233944202562,14.68324735722082,0 98.3623374444896,14.68339821866766,0 98.36229592193347,14.68343900605344,0 98.36224704154031,14.68343882840591,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="LineStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff008011</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
