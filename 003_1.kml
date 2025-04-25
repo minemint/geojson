@@ -8,71 +8,134 @@
     <name>60112_PL_Main_Pipeline</name>
     <Snippet></Snippet>
     <Placemark id="ID_00000">
-      <name>RC6540</name>
+      <name>โครงการท่อส่งก๊าซธรรมชาติบนบกจากสถานีควบคุมความดันก๊าซฯ ราชบุรี-วังน้อยที่6 (RA6) ไปยังจังหวัดราชบุรี</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>RC6540</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>0</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ROUTE_CODE</td>
-<td>RC6540</td>
-</tr>
-<tr>
-<td>NAME</td>
-<td>RC6540</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>TYPE</td>
-<td>TRANS MAIN</td>
-</tr>
-<tr>
-<td>DESCRIPTIO</td>
-<td>RA6 - BVW10</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Design_Pre</td>
-<td>0</td>
-</tr>
-<tr>
-<td>OUTSIDE_DI</td>
-<td>0</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>MAOP</td>
-<td>0</td>
-</tr>
-<tr>
-<td>ID</td>
-<td>003</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Pro_Code</td>
-<td>60112_PL</td>
-</tr>
-<tr>
-<td>Name_Pro</td>
-<td>โครงการท่อส่งก๊าซธรรมชาติบนบกจากสถานีควบคุมความดันก๊าซฯ ราชบุรี-วังน้อยที่6 (RA6) ไปยังจังหวัดราชบุรี</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการท่อส่งก๊าซธรรมชาติบนบกจากสถานีควบคุมความดันก๊าซฯ ราชบุรี-วังน้อยที่6 (RA6) ไปยังจังหวัดราชบุรี</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROUTE_CODE</td>
+
+<td>โครงการท่อส่งก๊าซธรรมชาติบนบกจากสถานีควบคุมความดันก๊าซฯ ราชบุรี-วังน้อยที่6 (RA6) ไปยังจังหวัดราชบุรี</td>
+
+</tr>
+
+<tr>
+
+<td>NAME</td>
+
+<td>โครงการท่อส่งก๊าซธรรมชาติบนบกจากสถานีควบคุมความดันก๊าซฯ ราชบุรี-วังน้อยที่6 (RA6) ไปยังจังหวัดราชบุรี</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>TRANS MAIN</td>
+
+</tr>
+
+<tr>
+
+<td>DESCRIPTIO</td>
+
+<td>RA6 - BVW10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Design_Pre</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>OUTSIDE_DI</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAOP</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pro_Code</td>
+
+<td>60112_PL</td>
+
+</tr>
+
+<tr>
+
+<td>Name_Pro</td>
+
+<td>โครงการท่อส่งก๊าซธรรมชาติบนบกจากสถานีควบคุมความดันก๊าซฯ ราชบุรี-วังน้อยที่6 (RA6) ไปยังจังหวัดราชบุรี</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#LineStyle00</styleUrl>
       <MultiGeometry>
